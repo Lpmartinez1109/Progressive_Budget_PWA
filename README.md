@@ -21,3 +21,5 @@ User can have an visual representation of their budget via the graph pictured ab
 Some of the future developments in mind for this app is to add both a delete and clear all function to the table. The idea is to allow the users to remove any misinformation that they have type into the app. The clear all function will allow the user to wipe out the entire table of information.
 
 Another development I would like to work on is include a pre-selection of different types of generic transactions that will allow to user to better track their different transactions.
+
+This would then open up the possibility of adding a different type of total amount of funds the user has. For example, the user can track how much funds are in their savings total and then switch to see a different total for another goal such as education, housing or vacation.
