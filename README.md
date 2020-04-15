@@ -15,3 +15,9 @@ Users can type in the name of their transaction above and view the total about o
 ![Progressive_Budget_2.PNG](./images/Progressive_Budget_2.PNG)
 
 User can have an visual representation of their budget via the graph pictured above. Along with each point along the graph, the user can see the dates that they inputed the new transaction information within the budget tracker.
+
+# Future Development
+
+Some of the future developments in mind for this app is to add both a delete and clear all function to the table. The idea is to allow the users to remove any misinformation that they have type into the app. The clear all function will allow the user to wipe out the entire table of information.
+
+Another development I would like to work on is include a pre-selection of different types of generic transactions that will allow to user to better track their different transactions.
