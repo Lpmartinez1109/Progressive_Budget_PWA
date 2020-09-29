@@ -32,6 +32,13 @@ function saveRecord(record) {
   store.add(record);
 }
 
+function deleteRecord(record){
+  const transaction = db.transaction(["pending"], "readwrite");
+  const store = transaction.objectStore("pending");
+  store.delete(record);
+
+}
+
 function checkDatabase() {
   // open a transaction on your pending db
   const transaction = db.transaction(["pending"], "readwrite");
